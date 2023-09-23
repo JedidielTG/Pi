@@ -1,0 +1,7 @@
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\Pi\Pi\bin\Debug\Pi.exe.config
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\Pi\Pi\bin\Debug\Pi.exe
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\Pi\Pi\bin\Debug\Pi.pdb
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\Pi\Pi\obj\Debug\Pi.csproj.AssemblyReference.cache
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\Pi\Pi\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\Pi\Pi\obj\Debug\Pi.exe
+D:\CARPETAS\Documentos\Visual Studio 2022\Proyectos\Pi\Pi\obj\Debug\Pi.pdb
